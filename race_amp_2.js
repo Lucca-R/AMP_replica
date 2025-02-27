@@ -52,7 +52,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/Lucca-R/AMP_replica@main/qamp_rep
 		},
 
 		base_url : {//Where are your images at?
-			image : 'https://baranan.github.io/minno-tasks/images/ampImages'
+			image : 'https://github.com/Lucca-R/AmpImages'
 		}
 	});
 });
